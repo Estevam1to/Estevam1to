@@ -5,7 +5,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Estevam1to&show_icons=true&theme=dark" style="height: 200px;" />
   </a>
   <a href="https://github.com/Estevam1to" style="flex: 1;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevam1to&theme=dark" style="height: 200px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevam1to&theme=dark&layout=compact" style="height: 200px;" />
   </a>
 </div>
 
