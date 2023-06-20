@@ -1,11 +1,11 @@
 ## Oiii eu sou o Luís Estevam Rosa Chaves!
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <a href="https://github.com/Estevam1to/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Estevam1to" />
+<div style="display: flex;">
+  <a href="https://github.com/Estevam1to/github-readme-stats" style="flex: 1;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Estevam1to&show_icons=true&theme=dark" style="height: 200px;" />
   </a>
-  <a href="https://github.com/Estevam1to">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevam1to" />
+  <a href="https://github.com/Estevam1to" style="flex: 1;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevam1to&theme=dark" style="height: 200px;" />
   </a>
 </div>
 
