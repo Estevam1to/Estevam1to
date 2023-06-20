@@ -1,17 +1,14 @@
-## Oiii eu sou o Luís Estevam Rosa Chaves!
+## Oi eu sou o Luís Estevam Rosa Chaves!
 
-<div>
-  <div style="display: inline-block;">
-    <a ha href="https://github.com/Estevam1to">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Estevam1to&repo=github-readme-stats" />
-    </a>
-  </div>
-  <div style="display: inline-block;">
-    <a href="https://github.com/Estevam1to">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevam1to" />
-    </a>
-  </div>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/Estevam1to/github-readme-stats" style="flex: 1; margin-right: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Estevam1to&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/Estevam1to" style="flex: 1;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevam1to" />
+  </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Estevam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
