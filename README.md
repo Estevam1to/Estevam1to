@@ -1,4 +1,4 @@
-## Hi, I'm Luís Estevam Rosa Chaves.!
+## Hi, I'm Luís Estevam Rosa Chaves!
 
 ✨I'm 19 years old and I'm from Ceará, Brazil. Currently, I'm pursuing a degree in Software Engineering at the Federal University of Ceará (UFC).
 
