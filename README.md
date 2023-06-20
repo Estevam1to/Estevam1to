@@ -1,4 +1,4 @@
-## Oiii eu sou o Luís Estevam Rosa Chaves!
+## Olá, eu sou o Luís Estevam Rosa Chaves!
 
 <div style="display: flex;">
   <a href="https://github.com/Estevam1to/github-readme-stats" style="flex: 1;">
@@ -15,6 +15,9 @@
   <img align="center" alt="Estevam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Estevam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Estevam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Estevam-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Estevam-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Estevam-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
