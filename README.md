@@ -2,7 +2,7 @@
 
 <div>
   <div style="display: inline-block;">
-    <a href="https://github.com/Estevam1to/github-readme-stats">
+    <a ha href="https://github.com/Estevam1to">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Estevam1to&repo=github-readme-stats" />
     </a>
   </div>
