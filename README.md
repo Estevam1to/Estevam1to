@@ -4,14 +4,6 @@
 
 💻I have a strong desire for knowledge and love exploring new frontiers. Let's embark on an exciting adventure of endless innovation together!  🚀
 
-<div style="display: flex;">
-  <a href="https://github.com/Estevam1to/github-readme-stats" style="flex: 1;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Estevam1to&show_icons=true&theme=dark" style="height: 180px;" />
-  </a>
-  <a href="https://github.com/Estevam1to" style="flex: 1;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevam1to&theme=dark&layout=compact" style="height: 180px;" />
-  </a>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Estevam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
