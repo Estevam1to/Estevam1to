@@ -1,9 +1,5 @@
 ## Hi, I'm Luís Estevam Rosa Chaves!
 
-✨ Currently, I'm pursuing a degree in Software Engineering at the Federal University of Ceará (UFC).
-
-💻I have a strong desire for knowledge and love exploring new frontiers. Let's embark on an exciting adventure of endless innovation together!  🚀
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Estevam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
